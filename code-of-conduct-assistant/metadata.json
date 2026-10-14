@@ -1,0 +1,6 @@
+{
+  "name": "Code of Conduct Assistant",
+  "description": "AI-powered policy compliance, code of conduct navigation, ethical scenario analysis, and institutional governance platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
